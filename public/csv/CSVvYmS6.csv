@@ -1,0 +1,966 @@
+id,product_category_id,currency_code,formula_id,permalink,name,short_description,long_description,base_price,is_sale,streak_price,is_call_for_best_price
+3,49,IDR,4,printer-canon-ip-2870,PRINTER CANON IP 2870,"<p>ISO Standar, Colour inkjet printer, d print speed (A4): up to 4.0ipm (colour) / 8.0ipm (mono)</p>
+<p> </p>","<table style=""height: 1334px;"" border=""1"" width=""457"" cellspacing=""0"" cellpadding=""3"">
+<tbody>
+<tr class=""smallnormfont"">
+<td colspan=""4"" valign=""top"">
+<div class=""product_specification_top"">
+<div class=""left"">
+<h4 class=""red"" style=""text-align: left;"">Specifications for PIXMA iP2870 / iP28<strong>72</strong></h4>
+</div>
+</div>
+</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Maximum Printing Resolution</td>
+<td colspan=""3"" valign=""top"">4800 (horizontal)*<sup>1</sup> x 600 (vertical) dpi</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""4"" valign=""top"">Print Head / Ink</td>
+<td colspan=""2"" valign=""top"">Type:</td>
+<td valign=""top"">FINE Cartridge</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Number of Nozzles:</td>
+<td valign=""top"">Total 1,280 nozzles</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Ink Droplet Size:</td>
+<td valign=""top"">2pl</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Ink Tank:</td>
+<td valign=""top"">PG745, CL-746 (Optional: PG-745XL, CL-746XL)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"">Print Speed*<sup>2</sup><br /> Based on ISO / IEC 24734.<br /> Click <a class=""normlink"" href=""http://media.canon-asia.com/v3.5media/products/inkjet_printer/ip2870-2872/iP2870-2872_EN.pdf"" target=""_blank"">here</a> for summary report<br /> Click <a class=""normlink"" href=""http://media.canon-asia.com/v3.5media/products/inkjet_printer/ip2870-2872/iP2870-2872_EN.pdf"" target=""_blank"">here</a> for Document Print and Copy Speed Measurement Conditions</td>
+<td valign=""top"" width=""18%"">Document: Col</td>
+<td valign=""top"" width=""19%"">ESAT / Simplex</td>
+<td valign=""top"" width=""28%"">approx. 4.0ipm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Document: B / W</td>
+<td valign=""top"">ESAT / Simplex</td>
+<td valign=""top"">approx. 8.0ipm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Printable Width</td>
+<td colspan=""3"" valign=""top"">Up to 203.2mm (8inch)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top""> </td>
+<td colspan=""2"" valign=""top"">Borderless Printing</td>
+<td valign=""top"">Top margin: 3mm, Bottom margin: 16.7mm, <br /> Left / Right margin: each 3.4mm (LTR / LGL: Left: 6.4mm, Right: 6.3mm)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Recommended Printing Area</td>
+<td colspan=""3"" valign=""top"">Top margin: 31.6mm / Bottom margin: 29.2mm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Paper Size</td>
+<td colspan=""3"" valign=""top"">A4, A5, B5, LTR, LGL, 4 x 6"", 5 x 7"", Envelopes (DL, COM10), Custom size (width 101.6mm - 215.9mm, length 152.4mm - 676mm)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""4"" valign=""top"">Paper Handling (Rear Tray)<br /> (Maximum Number)</td>
+<td colspan=""2"" valign=""top"">Plain Paper</td>
+<td valign=""top"">A4, A5, B5, LTR=60, LGL=10</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Photo Paper Plus Glossy II (PP-201)</td>
+<td valign=""top"">4 x 6""=20</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Glossy Photo Paper ""Everyday Use"" (GP-601)</td>
+<td valign=""top"">4 x 6""=20</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Envelope</td>
+<td valign=""top"">European DL / US Com. #10=5</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Paper Weight</td>
+<td colspan=""2"" valign=""top"">Rear Tray</td>
+<td valign=""top"">Plain Paper: 64-105 g/m<sup>2</sup> , Canon specialty paper: max paper weight : approx. 275 g/m<sup>2</sup> (Photo Paper Plus Glossy II (PP-201))</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Ink End Sensor</td>
+<td colspan=""3"" valign=""top"">Dot count</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Print Head Alignment</td>
+<td colspan=""3"" valign=""top"">Manual</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""4"" valign=""top""><strong>System Requirements</strong></td>
+</tr>
+<tr>
+<td valign=""top"">Windows:</td>
+<td class=""smallnormfont"" colspan=""2"" rowspan=""2"" valign=""top"">(Please visit <a class=""underline"" href=""http://www.canon-asia.com"" target=""_new"">www.canon-asia.com</a> to check OS compatibility and to download the latest driver updates.)</td>
+<td class=""smallnormfont"" valign=""top"">Windows 8 / Windows 7 / Windows XP / Windows Vista</td>
+</tr>
+<tr>
+<td valign=""top""><span class=""smallnormfont"">Macintosh:</span></td>
+<td class=""smallnormfont"" valign=""top"">Mac OS X v10.6.8 and later</td>
+</tr>
+<tr>
+<td colspan=""4"" valign=""top""><strong class=""header"">General Specifications</strong></td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Interface</td>
+<td colspan=""3"" valign=""top"">USB 2.0 Hi-Speed</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Operating Environment</td>
+<td colspan=""3"" valign=""top"">Temperature: 15 -30°C; Humidity: 10 - 80% RH (no dew condensation)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Storage Environment</td>
+<td colspan=""3"" valign=""top"">Temperature: 0 - 40°C; Humidity: 5 - 95% RH (no dew condensation)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top""><strong>Power</strong></td>
+<td colspan=""3"" valign=""top"">AC 100-240V 50 / 60Hz</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""3"" valign=""top"">Power Consumption</td>
+<td colspan=""2"" valign=""top"">Standby (USB connection to PC)</td>
+<td valign=""top"">Approx. 0.8W</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">OFF:</td>
+<td valign=""top"">Approx. 0.5W</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Printing *<sup>4</sup></td>
+<td valign=""top"">Approx. 8.0W</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"">Environment</td>
+<td colspan=""2"" valign=""top"">Regulation:</td>
+<td valign=""top"">RoHS (EU, China), WEEE (EU)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td colspan=""2"" valign=""top"">Eco-Label:</td>
+<td valign=""top"">Energy Star, EPEAT</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Dimension (W x D x H)</td>
+<td colspan=""2"" valign=""top""> </td>
+<td valign=""top"">approx. 426 x 235 x 134mm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"">Weight</td>
+<td colspan=""2"" valign=""top""> </td>
+<td valign=""top"">approx. 2.3kg</td>
+</tr>
+</tbody>
+</table>
+<p> </p>",420000,0,0,1
+4,49,IDR,4,printer-canon-mg2470,PRINTER CANON MG2470,"<p>Printer, copier dan scanner inkjet warna Kecepatan cetak standar ISO (A4): sampai dengan 8.0ipm mono / 4.0ipm warna</p>
+<p> </p>","<div class=""product_specification_top"">
+<div class=""left"">
+<h2 class=""red"">Spesifikasi untuk PIXMA MG2470</h2>
+</div>
+</div>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""3"">
+<tbody>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%""><strong>Cetak</strong></td>
+<td colspan=""2"" valign=""top""> </td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Resolusi Pencetakan Maksimum</td>
+<td colspan=""2"" valign=""top"">4800 (horizontal)*<sup>1</sup> x 600 (vertikal)dpi</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""4"" valign=""top"" width=""35%""><em>Print Head</em> / Tinta</td>
+<td valign=""top"" width=""37%"">Tipe:</td>
+<td valign=""top"" width=""28%"">Kartrid yang BAIK</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Jumlah Nosel:</td>
+<td valign=""top"" width=""28%"">Total 1,280 nosel</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Ukuran Tetesan Tinta (minimal):</td>
+<td valign=""top"" width=""28%"">2pl</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Kartrid Tinta:</td>
+<td valign=""top"" width=""28%"">PG-745, CL-746 <br /> (PG-745XL, CL746XL - Opsional)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Kecepatan Cetak*<sup>2</sup> <br /> Berdasarkan ISO / IEC 24734. <br /> Klik <a href=""http://media.canon-asia.com/v3.5media/products/inkjet_printer/ip8770/iP8770_EN.pdf"">di sini</a> untuk laporan ringkasan <br /> Klik <a href=""http://media.canon-asia.com/pdf/pixma/ISO-Speed-Test-Method_V1-5.pdf"">di sini</a> untuk Kondisi Pengukuran Kecepatan Cetak dan Salin Dokumen</td>
+<td valign=""top"" width=""37%"">Dokumen: Warna*<sup>2</sup>: <br /> ESAT / Simpleks:</td>
+<td valign=""top"" width=""28%"">Sekitar 4.0ipm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Dokumen: H/P*<sup>2</sup>: <br /> ESAT / Simpleks:</td>
+<td valign=""top"" width=""28%"">Sekitar 8.0ipm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Lebar yang Dapat Dicetak</td>
+<td colspan=""2"" valign=""top"">Sampai dengan 203.2 mm (8 inci)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Pencetakan dengan <em>Border</em>:</td>
+<td valign=""top"" width=""28%"">Marjin atas: 3mm, <br /> Marjin bawah: 16.7mm, <br /> Marjin Kiri / Kanan: masing-masing 3.4mm (LTR, LGL: Kiri: 6.4mm, <br /> Kanan: 6.3mm)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Area Cetak yang Direkomendasikan</td>
+<td valign=""top"" width=""37%"">Marjin atas:</td>
+<td valign=""top"" width=""28%"">31.6mm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Marjin bawah:</td>
+<td valign=""top"" width=""28%"">29.2mm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Ukuran Kertas</td>
+<td colspan=""2"" valign=""top"">A4, A5, B5, LTR, LGL, 4 x 6"", 5 x 7"", Amplop (DL, COM10), Ukuran kustom (width 101.6mm - 215.9mm, panjang 152.4mm - 676mm)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""4"" valign=""top"" width=""35%"">Penanganan Kertas (Baki Belakang) <br /> (Jumlah Maksimal)</td>
+<td valign=""top"" width=""37%"">Kertas Polos</td>
+<td valign=""top"" width=""28%"">A4, A5, B5, LTR = 60, LGL = 10</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Kertas Foto Glossy Plus II <br /> (PP-201)</td>
+<td valign=""top"" width=""28%"">4 x 6"" = 20</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Kertas Foto Glossy ""Penggunaan Setiap Hari"" (GP-501) <br /> Kertas Foto Glossy ""Penggunaan Setiap Hari"" (GP-601)</td>
+<td valign=""top"" width=""28%"">4 x 6"" = 20</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Amplop</td>
+<td valign=""top"" width=""28%"">DL / US Com. Eropa #10 = 5</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Berat Kertas</td>
+<td valign=""top"" width=""37%"">Kaset:</td>
+<td valign=""top"" width=""28%"">Kertas Polos: 64 - 105 g/m<sup>2</sup>, Kertas spesial Canon: berat kertas maks:<br /> Sekitar 275 g/m<sup>2</sup> (Kertas Foto Glossy Plus II (PP-201)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Sensor Ujung Tinta</td>
+<td colspan=""2"" valign=""top"">Jumlah titik</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Jajaran <em>Print Head</em></td>
+<td colspan=""2"" valign=""top"">Manual</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%""><strong><em>Scan</em></strong><strong>*<sup>4</sup></strong></td>
+<td colspan=""2"" valign=""top""> </td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Tipe <em>Scanner</em></td>
+<td colspan=""2"" valign=""top"">Alas datar</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Metode<em> Scan</em></td>
+<td colspan=""2"" valign=""top"">CIS (Contact Image Sensor)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Resolusi Optik*<sup>5</sup></td>
+<td colspan=""2"" valign=""top"">600 x 1200dpi</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Resolusi yang Dapat Dipilih*<sup>6</sup></td>
+<td colspan=""2"" valign=""top"">25 - 19200dpi</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Kedalaman <em>Scan</em> Bit (Input / Output)</td>
+<td valign=""top"" width=""37%"">Hitam Putih:</td>
+<td valign=""top"" width=""28%"">16 bit / 8 bit</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Warna:</td>
+<td valign=""top"" width=""28%"">48 bit / 24 bit (RGB masing-masing 16 bit / 8 bit )</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Kecepatan<em> Scan</em> Barisan*<sup>7</sup></td>
+<td valign=""top"" width=""37%"">Hitam Putih:</td>
+<td valign=""top"" width=""28%"">1.2 ms/baris (300dpi)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Warna:</td>
+<td valign=""top"" width=""28%"">3.5 ms/baris (300dpi)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Kecepatan ISO*<sup>8</sup></td>
+<td valign=""top"" width=""37%"">Reflektif: <br /> A4 Warna /  300dpi</td>
+<td valign=""top"" width=""28%"">Sekitar 14 detik</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Ukuran Dokumen Maksimal</td>
+<td valign=""top"" width=""37%"">Alas datar:</td>
+<td valign=""top"" width=""28%"">A4 / LTR (216 x 297mm)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%""><strong>Penyalinan*<sup>9</sup></strong></td>
+<td colspan=""2"" valign=""top""> </td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Ukuran Dokumen Maksimal</td>
+<td colspan=""2"" valign=""top"">A4 / LTR (216 x 297mm)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Media yang Kompatibel</td>
+<td valign=""top"" width=""37%"">Ukuran:</td>
+<td valign=""top"" width=""28%"">A4, LTR</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Tipe:</td>
+<td valign=""top"" width=""28%"">Kertas Polos</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Kualitas Gambar</td>
+<td valign=""top"" width=""37%"">Kertas Polos:</td>
+<td valign=""top"" width=""28%"">Cepat, Standar</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Kecepatan Salin*<sup>10</sup> <br /> Berdasarkan ISO / IEC 29183. <br /> Klik <a href=""http://media.canon-asia.com/v3.5media/products/allinone/mg2470/MG2470_EN.pdf"">di sini</a> untuk laporan ringkasan <br /> Klik <a href=""http://media.canon-asia.com/pdf/pixma/ISO-Speed-Test-Method_V1-5.pdf"">di sini</a> untuk Kondisi Pengukuran Kecepatan Cetak dan Salin Dokumen</td>
+<td valign=""top"" width=""37%"">Dokumen: Warna: <br /> sFCOT / Simpleks:</td>
+<td valign=""top"" width=""28%"">Sekitar 31 detik</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Dokumen: Warna: <br /> sESAT / Simpleks:</td>
+<td valign=""top"" width=""28%"">Sekitar 1.7ipm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Beberapa Salinan</td>
+<td valign=""top"" width=""37%"">Hitam / Warna</td>
+<td valign=""top"" width=""28%"">1 - 21 halaman</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%""><strong>Persyaratan Sistem</strong> <br /> (Mohon kunjungi <a href=""http://www.canon-asia.com/"">www.canon-asia.com</a> untuk memeriksa kompabilitas OS dan untuk mengunduh perbaruan <em>driver</em> terbaru )</td>
+<td valign=""top"" width=""37%"">Windows:</td>
+<td valign=""top"" width=""28%"">Windows 8 / Windows 7 / Window Vista / Windows XP</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Macintosh:</td>
+<td valign=""top"" width=""28%"">Mac OS X v10.6.8 atau yang terbaru</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%""><strong>Umum</strong></td>
+<td colspan=""2"" valign=""top""> </td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Antarmuka</td>
+<td colspan=""2"" valign=""top"">Kecepata Tinggi USB 2.0</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Lingkungan Pengoperasian</td>
+<td valign=""top"" width=""37%"">Suhu:</td>
+<td valign=""top"" width=""28%"">5 - 35°C</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Kelembapan:</td>
+<td valign=""top"" width=""28%"">10 - 90% RH <br /> (tanpa kondensasi embun)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Lingkungan Penyimpanan</td>
+<td valign=""top"" width=""37%"">Suhu:</td>
+<td valign=""top"" width=""28%"">0 - 40°C</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Kelembapan:</td>
+<td valign=""top"" width=""28%"">5 - 95% RH <br /> (tanpa kondensasi embun)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Daya</td>
+<td colspan=""2"" valign=""top"">AC 100 - 240V, 50 / 60Hz</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""3"" valign=""top"" width=""35%"">Konsumsi Daya</td>
+<td valign=""top"" width=""37%"">Siaga (lampu <em>scan</em> sedang mati) <br /> (Koneksi USB ke PC):</td>
+<td valign=""top"" width=""28%"">Sekitar 1.0W</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">MATI:</td>
+<td valign=""top"" width=""28%"">Sekitar 0.4W</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Penyalinan*<sup>11</sup>: <br /> (Koneksi USB ke PC)</td>
+<td valign=""top"" width=""28%"">Sekitar 9W</td>
+</tr>
+<tr class=""smallnormfont"">
+<td rowspan=""2"" valign=""top"" width=""35%"">Lingkungan</td>
+<td valign=""top"" width=""37%"">Ketentuan:</td>
+<td valign=""top"" width=""28%"">RoHS (EU, China), WEEE (EU)</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""37%"">Eco-Label:</td>
+<td valign=""top"" width=""28%"">Energy Star, EPEAT</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Dimensi (L x D x T)</td>
+<td colspan=""2"" valign=""top"">Sekitar 426 x 306 x 145mm</td>
+</tr>
+<tr class=""smallnormfont"">
+<td valign=""top"" width=""35%"">Berat</td>
+<td colspan=""2"" valign=""top"">Sekitar 3.5kg</td>
+</tr>
+</tbody>
+</table>",570000,0,0,0
+5,49,IDR,4,hp-deskjet-1010,HP Deskjet 1010,"<p>A4, 600 x 600 dpi, Black/White 20 ppm Print, Color 16 ppm Print, Tray 1# 60, USB</p>
+<p>&nbsp;</p>","<p>PRINTER HP 1010 INKJET</p>
+<ul id=""idTab22"" class=""bullet"">
+<li>Kebutuhan Rumah dan Kantor Kecil</li>
+<li>Jenis Printer Hp 1010 Inkjet</li>
+<li>Fitur Print</li>
+<li>Koneksi Hi-Speed USB 2.0</li>
+<li>Resolusi Pencetak 4800 x 1200 dpi</li>
+<li>Kecepatan Black : Draft:Up to 20 ppm, Colour : Draft:Up to 16 ppm</li>
+<li>Input Kertas 60-sheet input tray</li>
+<li>Ukuran Kertas A4, B5, A5, A6, DL envelope</li>
+<li>Output Kertas 25-sheet output tray</li>
+<li>Driver Windows Microsoft&reg; Windows&reg; 7, Windows Vista&reg;, Windows&reg; XP (SP2)* or higher (32-bit only)</li>
+<li>Driver Printer Macintosh Mac OS X v 10.5 or v 10.6</li>
+<li>Dimensi W x D x H 421 x 380 x 266 mm (rear tray up, output tray down, not extended), 420 x 211 x 122 mm (storage position)</li>
+<li>Berat 2 kg (+kardus 5kg)</li>
+<li>Pemakaian yang dianjurkan Setiap Bulannya 300 halaman</li>
+</ul>",380000,1,0,0
+6,49,IDR,4,hp-deskjet-ultra-ink-advantage-2020hc,HP Deskjet Ultra Ink Advantage 2020HC,"<p>A4, 4800 x 1200 dpi, Black/White 20 ppm Print, Color 16 ppm Print, Tray 1# 60, USB</p>
+<p> </p>","<table border=""1"" width=""100%"" bgcolor=""#FFFFFF"">
+<tbody>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Brand:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">HP</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Part Number:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">CZ733A</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Print Speed:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">black: ISO Laser comparable:Up to 7 ppm, Draft:Up to 20 ppm; ISO Laser comparable:Up to 4 ppm,Draft:Up to 16 ppm; colour (draft, 10x15 photo): As fast as 75 sec</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Input Capacity:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">60-sheet input tray</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Output Capacity:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">25-sheet output tray</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Media Size:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">A4, B5, A5, A6, DL envelope</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Media Type:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">Paper (brochure, inkjet, plain), photo paper, envelopes, labels, cards (greeting), transparencies</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>LCD:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">1.1-inch mono icon display (2.8-cm)</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Duty Cycle:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">(monthly, A4) Up to 1000 pages</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Size (WxDxH)mm:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">429 x 601 x 298 mm</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Weight (Est):</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">2.85 kg</td>
+</tr>
+</tbody>
+</table>",930000,0,0,0
+7,49,IDR,1,hp-officejet-100-mobile,HP Officejet 100 Mobile,"<p>A4, 600 x 600 dpi, Black/White 22 ppm Print, Color 18 ppm Print, Tray 1# 50, USB</p>
+<p>&nbsp;</p>","<table class=""spesifications"" cellspacing=""0"" cellpadding=""3"">
+<tbody>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Platform</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Business InkJet&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Metode Cetak</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">InkJet&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Teknologi Cetak</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">HP Thermal Inkjet&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Maks. Besaran Kertas</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">A4&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Maks. Resolusi</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">4800&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Effective Print Resolution</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Up to 4800 x 1200 optimised dpi&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Kecepatan Cetak B/W</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">22 ppm&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Kecepatan Cetak Warna</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">18 ppm&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Monthly Usage Volume</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Up to 500 pages Duty cycle (monthly, A4)&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Konektivitas</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">USB&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Kesesuaian Sistem Operasi</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Microsoft&reg; Windows&reg; 7, Windows Vista&reg; (x32 and x64), Windows&reg; XP Professional x32, Windows&reg; 2000, Windows&reg; Server 2003, Windows&reg; Server 2008; Mac OS X v 10.5 or higher,&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Prosessor</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">220 MHz&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Memori Standar</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">64 MB&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Maks. Memori</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">64 MB&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Bahasa</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">HP PCL 3 GUI&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Input Tray #1</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Up to 50 sheets&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Media</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Paper (inkjet, photo, plain), cards (greeting, index), envelopes, labels, brochures&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Compatible Media Sizes</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">A4 (210 x 297 mm), A5 (148 x 210 mm), A6 (105 x 148 mm), B5 (176 x 250 mm), C6 (114 x 162mm), DL (220 x 110 mm), L, 2L
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>Custom: 3 x 4 to 8.5 x 14 inches (76.2 x 101.6 to 215.9 x 355.6 mm)&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Power Consumption</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">40 watts maximum&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>AC Adapter</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Input voltage: 90 to 132 VAC, 47 to 63 Hz; 180 to 264 VAC, 47 to 63 Hz&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Dimensi</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">34.8 x 8.4 x 17.5 cm&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Berat</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">2.3 kg&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Consumables</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>HP 94 Black Original Ink Cartridge (C8765WA)&nbsp;&nbsp;</li>
+<li>HP 95 Tri-color Original Ink Cartridge (C8766WA)&nbsp;&nbsp;</li>
+<li>HP 97 Tri-color Original Ink Cartridge (C9363WA)&nbsp;&nbsp;</li>
+<li>HP 98 Black Original Ink Cartridge (C9364WA)&nbsp;&nbsp;</li>
+<li>HP 99 Photo Original Ink Cartridge (C9369WA)&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Lain-lain</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>Battery Lithium-Ion&nbsp;&nbsp;</li>
+<li>Information Supplies
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>HP 94 Black Ink Cartridge&nbsp;&nbsp;</li>
+<li>HP 95 Tri-Colours Ink Cartridge&nbsp;&nbsp;</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>",2545000,1,0,0
+8,49,IDR,2,printer-hp-oj-8100-inkjet,PRINTER HP OJ 8100 INKJET,"<p>A4; A5; A6 (10 x 15 cm); 13 x 18 cm; Envelope (C5, C6, DL); Letter | Custom: Tray 1: 76.2 x 127 to 215.9 x 355.6 mm (custom sizes supported by Mac driver only)</p>
+<p> </p>","<table border=""1"" width=""100%"" bgcolor=""#FFFFFF"">
+<tbody>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Brand:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">HP</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Part Number:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">CM752A</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Memory:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">128 MB DDR3</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Print Speed:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">black (draft, A4) Up to 35 ppm; colour (draft, A4) Up to 35 ppm; (ISO, laser comparable) Up to 20 ppm; (ISO, laser comparable) Up to 16 ppm</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Resolution:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">black (best) Up to 1200 x 600 dpi; color (best) Up to 4800 x 1200 optimised dpi on HP Advanced Photo paper, 1200 x 1200 input dpi</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Input Capacity:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">250-sheet input tray</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Output Capacity:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">150-sheet output tray</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Media Size:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">A4; A5; A6 (10 x 15 cm); 13 x 18 cm; Envelope (C5, C6, DL); Letter | Custom: Tray 1: 76.2 x 127 to 215.9 x 355.6 mm (custom sizes supported by Mac driver only)</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Media Type:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">Plain paper, Thick plain paper, HP Bright White Paper, HP Professional Inkjet Paper 120 Matte, HP Premium Plus Photo Papers*, Other inkjet papers, HP Advanced Photo Papers, HP Everyday Photo Paper, Glossy*, Other photo papers, Other specialty papers, Other Greeting Cards, HP Professional inkjet Paper 180, Glossy and Matte, Other brochure papers, Card Stock</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>LCD:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">Colour LCD (icon-based graphic display)</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>OS Compatibility:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">Microsoft® Windows® 7; Windows Vista®; Windows® XP (SP3) or higher (32-bit only); Mac OS X v10.5 or v10.6, Linux (For more information, see http://hplipopensource.com/hplip-web/index.html)</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Duty Cycle:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">(monthly, A4) Up to 25000 pages</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Features:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">Mobile printing capability: HP ePrint, Apple AirPrint; Connectivity, standard : Hi-Speed USB 2.0; Built-in wired Ethernet 10/100Base-TX (RJ45) networking; Built-in wireless 802.11b/g/n networking</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Processor Speed:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">360 MHz</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Media weight:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">60 to 105 g/m² (plain paper); 220 to 280 g/m² (photo)*; 75 to 90 g/m² (envelope); 163 to 200 g/m² (card). *HP Premium Plus Photo Papers up to 300 g/m² and HP Everyday Photo Paper up to 200 g/m² are also supported.</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Size (WxDxH)mm:</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">494 x 458 x 202 mm (including duplexer)</td>
+</tr>
+<tr>
+<td class=""jarak"" align=""left"" valign=""top"" width=""30%""><strong>Weight (Est):</strong></td>
+<td class=""jarak"" align=""left"" width=""70%"">11 kg</td>
+</tr>
+</tbody>
+</table>",1475000,0,0,0
+9,49,IDR,2,printer-hp-oj-7000-a3-,PRINTER HP OJ 7000 (A3),"<p>PRINTER HP OJ 7000 (A3), Printer Type, Workgroup printer - ink-jet - color</p>
+<p> </p>","<h2>Printer</h2>
+<ul>
+<li>
+<div class=""col-3"">Inkjet Technology</div>
+<div class=""col-5"">HP Thermal Inkjet</div>
+</li>
+<li>
+<div class=""col-3"">Ink Palette Supported (Colors)</div>
+<div class=""col-5"">4-ink</div>
+</li>
+<li>
+<div class=""col-3"">Print Speed</div>
+<div class=""col-5"">Up to 33 ppm - black draft - A4 (8.25 in x 11.7 in)<br />Up to 32 ppm - color draft - A4 (8.25 in x 11.7 in)</div>
+</li>
+<li>
+<div class=""col-3"">Connectivity Technology</div>
+<div class=""col-5"">wired</div>
+</li>
+<li>
+<div class=""col-3"">Interface</div>
+<div class=""col-5"">USB, LAN</div>
+</li>
+<li>
+<div class=""col-3"">Max Resolution ( B&W )</div>
+<div class=""col-5"">600 dpi</div>
+</li>
+<li>
+<div class=""col-3"">Max Resolution ( Color )</div>
+<div class=""col-5"">4800 x 1200 dpi</div>
+</li>
+<li>
+<div class=""col-3"">Language Simulation</div>
+<div class=""col-5"">PCL 3</div>
+</li>
+<li>
+<div class=""col-3"">Printer Features</div>
+<div class=""col-5"">borderless printing</div>
+</li>
+</ul>
+<h2>RAM</h2>
+<ul>
+<li>
+<div class=""col-3"">RAM Installed ( Max )</div>
+<div class=""col-5"">32 MB</div>
+</li>
+</ul>
+<h2>Media Handling</h2>
+<ul>
+<li>
+<div class=""col-3"">Media Type</div>
+<div class=""col-5"">plain paper</div>
+</li>
+<li>
+<div class=""col-3"">Media Sizes</div>
+<div class=""col-5"">Legal (8.5 in x 14 in)</div>
+</li>
+<li>
+<div class=""col-3"">Borderless Photo Sizes</div>
+<div class=""col-5"">Super B (13 in x 19 in)</div>
+</li>
+<li>
+<div class=""col-3"">Media Weight</div>
+<div class=""col-5"">60 g/m2 - 280 g/m2</div>
+</li>
+<li>
+<div class=""col-3"">Total Media Capacity</div>
+<div class=""col-5"">150 sheets</div>
+</li>
+<li>
+<div class=""col-3"">Output Trays Capacity</div>
+<div class=""col-5"">100 sheets</div>
+</li>
+</ul>
+<h2>Duty Cycle</h2>
+<ul>
+<li>
+<div class=""col-3"">Monthly Duty Cycle (max)</div>
+<div class=""col-5"">7000 pages</div>
+</li>
+</ul>
+<h2>Telecom</h2>
+<ul>
+<li>
+<div class=""col-3"">Modem</div>
+<div class=""col-5"">none</div>
+</li>
+</ul>
+<h2>Networking</h2>
+<ul>
+<li>
+<div class=""col-3"">Networking</div>
+<div class=""col-5"">Print server</div>
+</li>
+<li>
+<div class=""col-3"">Data Link Protocol</div>
+<div class=""col-5"">Ethernet</div>
+</li>
+</ul>
+<h2>Copier</h2>
+<ul>
+<li>
+<div class=""col-3"">Copier Type</div>
+<div class=""col-5"">none</div>
+</li>
+</ul>
+<h2>Miscellaneous</h2>
+<ul>
+<li>
+<div class=""col-3"">Microsoft Certifications</div>
+<div class=""col-5"">Certified for Windows Vista</div>
+</li>
+</ul>
+<h2>Power</h2>
+<ul>
+<li>
+<div class=""col-3"">Power Consumption Operational</div>
+<div class=""col-5"">32 Watt</div>
+</li>
+<li>
+<div class=""col-3"">Power Consumption Stand by / Sleep</div>
+<div class=""col-5"">2.7 Watt</div>
+</li>
+</ul>
+<h2>Software / System Requirements</h2>
+<ul>
+<li>
+<div class=""col-3"">Software Included</div>
+<div class=""col-5"">Drivers & Utilities</div>
+</li>
+<li>
+<div class=""col-3"">OS Required</div>
+<div class=""col-5"">Microsoft Windows XP Professional SP1</div>
+</li>
+</ul>
+<h2>Environmental Standards</h2>
+<ul>
+<li>
+<div class=""col-3"">ENERGY STAR</div>
+<div class=""col-5"">Yes</div>
+</li>
+</ul>
+<h2>Environmental Parameters</h2>
+<ul>
+<li>
+<div class=""col-3"">Humidity Range Operating</div>
+<div class=""col-5"">15 - 90%</div>
+</li>
+</ul>
+<h2>Dimensions & Weight</h2>
+<ul>
+<li>
+<div class=""col-3"">Width</div>
+<div class=""col-5"">22.6 in</div>
+</li>
+<li>
+<div class=""col-3"">Depth</div>
+<div class=""col-5"">15.8 in</div>
+</li>
+<li>
+<div class=""col-3"">Height</div>
+<div class=""col-5"">7.1 in</div>
+</li>
+<li>
+<div class=""col-3"">Weight</div>
+<div class=""col-5"">15.4 lbs</div>
+</li>
+</ul>
+<h2>General</h2>
+<div class=""col-3"">Manufacturer</div>
+<div class=""col-5"">HP</div>",2450000,0,0,0
+11,49,IDR,4,hp-deskjet-1510-all-in-one,HP Deskjet 1510 All-in-One,"<p>A4, 4800 x 1200 dpi, Black/White 20 ppm Print, Color 16 ppm Print, 1200 dpi Scan, Black/White 4 cpm Copy, Color 2 cpm Copy, Tray 1# 60, USB</p>","<p class=""p1""><span class=""s1""><strong>Supported Operating Systems </strong>:</span></p>
+<p class=""p2""><span class=""s1"">Compatible operating systems</span><span class=""s2""> : </span></p>
+<ul class=""ul1"">
+<li class=""li3""><span class=""s1"">Windows 8, Windows 7, Windows Vista, Windows XP SP3 or higher (32-bit only)</span></li>
+<li class=""li4""><span class=""s1"">Mac OS X v10.6, Lion, Mountain Lion</span></li>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Printer Specifications :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li3""><span class=""s1"">Functions : Print, copy, scan</span></li>
+<li class=""li6""><span class=""s1"">Multitasking supported</span><span class=""s4""> : No</span></li>
+<li class=""li3""><span class=""s1"">Automatic paper sensor : No</span></li>
+<li class=""li6""><span class=""s1"">Borderless printing</span><span class=""s4""> : No</span></li>
+<li class=""li3""><span class=""s1"">Direct print supported : None (not supported)</span></li>
+<li class=""li3""><span class=""s1"">Duplex printing : Manual (driver support provided)</span></li>
+<li class=""li3""><span class=""s1"">Duty cycle (monthly, A4) : Up to 1000 pages</span></li>
+<li class=""li3""><span class=""s1"">Recommended monthly page volume : 50 to 200</span></li>
+<li class=""li3""><span class=""s1"">Envelope feeder : No</span></li>
+<li class=""li3""><span class=""s1"">Paper trays, maximum : 1</span></li>
+<li class=""li3""><span class=""s1"">Paper trays, standard : 1</span></li>
+<li class=""li3""><span class=""s1"">Print colours : Yes</span></li>
+<li class=""li3""><span class=""s1"">Printer drivers included : HP PCL 3 GUI</span></li>
+<li class=""li3""><span class=""s1"">Print languages : HP PCL 3 GUI</span></li>
+<li class=""li3""><span class=""s1"">Vertical alignment accuracy : +/- 0.0050 mm</span></li>
+<li class=""li3""><span class=""s1"">Print technology :  </span><span class=""s5"">HP Thermal Inkjet</span></li>
+<li class=""li3""><span class=""s1"">Photo proofsheets supported : No</span></li>
+<li class=""li6""><span class=""s4"">SureSupply note :  </span><span class=""s1"">HP SureSupply assists you when you want to replace a print cartridge and helps you shop and purchase locally or via the Internet. For more information, visit hp.com/learn/suresupply. Only available for genuine HP supplies. Internet access required.</span></li>
+<li class=""li3""><span class=""s1"">SureSupply supported : Yes</span></li>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Printing Media Handling :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li4""><span class=""s1"">Maximum input capacity (sheets) : </span><span class=""s7"">Up to 60 sheets</span></li>
+<li class=""li3""><span class=""s1"">Maximum input capacity (cards) : Up to 20 Cards</span></li>
+<li class=""li3""><span class=""s1"">Envelope input capacity : Up to 5 envelopes</span></li>
+<li class=""li3""><span class=""s1"">Maximum input capacity (10x15cm photos) : Up to 20 sheets</span></li>
+<li class=""li3""><span class=""s1"">Input capacity : Up to 60 sheets</span></li>
+<li class=""li7""><span class=""s1"">Finished output handling : </span><span class=""s4"">Sheetfed</span></li>
+<li class=""li3""><span class=""s1"">Maximum output capacity (photo paper) : Up to 20 sheets</span></li>
+<li class=""li3""><span class=""s1"">Output capacity : Up to 25 sheets</span></li>
+<li class=""li7""><span class=""s1"">Paper handling input, standard : </span><span class=""s4"">60-sheet input tray</span></li>
+<li class=""li7""><span class=""s1"">Paper handling output, standard</span><span class=""s4""> : 25-sheet output tray</span></li>
+</ul>
+<p> </p>
+<p class=""p8""><span class=""s1""><strong>Supported Printing Media :</strong><br /> </span></p>
+<ul class=""ul1"">
+<li class=""li3""><span class=""s1"">Media sizes, custom : </span></li>
+<ul class=""ul2"">
+<li class=""li3""><span class=""s1"">89 x 127 to 215 x 279 mm</span></li>
+</ul>
+<li class=""li3""><span class=""s1"">Media sizes supported :</span></li>
+<ul class=""ul2"">
+<li class=""li6""><span class=""s1"">A4 (210 x 297 mm)</span></li>
+<li class=""li6""><span class=""s1"">A6 (105 x 148 mm) </span></li>
+<li class=""li6""><span class=""s1"">B5 (176 x 250 mm) </span></li>
+<li class=""li6""><span class=""s1"">DL envelope (110 x 220 mm) </span></li>
+</ul>
+<li class=""li3""><span class=""s1"">Media types :</span></li>
+<ul class=""ul2"">
+<li class=""li3""><span class=""s1"">Paper (brochure, inkjet, plain), photo paper, envelopes, labels, cards (greeting)</span></li>
+</ul>
+<li class=""li7""><span class=""s1"">Media weight, supported</span><span class=""s4""> :</span></li>
+<ul class=""ul2"">
+<li class=""li6""><span class=""s1"">Tray 1: A4: 60 to 90 g/m²</span><span class=""s4""> </span></li>
+<li class=""li6""><span class=""s1"">HP envelopes: 75 to 90 g/m²</span><span class=""s4""> </span></li>
+<li class=""li6""><span class=""s1"">HP cards: up to 200 g/m²</span><span class=""s4""> </span></li>
+<li class=""li6""><span class=""s1"">HP 10 x 15 cm photo paper: up to 300 g/m²</span><span class=""s4""> </span></li>
+</ul>
+<li class=""li3""><span class=""s1"">Media weight, recommended :</span></li>
+<ul class=""ul2"">
+<li class=""li3""><span class=""s1"">75 g/m²</span></li>
+</ul>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Print Area :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li7""><span class=""s1"">Bottom margin (A4): </span><span class=""s4"">14.5 mm</span></li>
+<li class=""li7""><span class=""s1"">Left margin (A4) : </span><span class=""s4"">3.2 mm</span></li>
+<li class=""li3""><span class=""s1"">Right margin (A4) : 3.2 mm</span></li>
+<li class=""li3""><span class=""s1"">Top margin (A4) : 1.5 mm</span></li>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Print Resolution :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li7""><span class=""s1"">Print quality black (best)</span></li>
+<ul class=""ul2"">
+<li class=""li3""><span class=""s1"">Up to 600 x 600 rendered dpi</span></li>
+</ul>
+<li class=""li3""><span class=""s1"">Print quality color (best)</span></li>
+<ul class=""ul2"">
+<li class=""li3""><span class=""s1"">Up to 4800 x 1200 optimised dpi colour (when printing from a computer on selected HP photo papers and 1200 input dpi)</span></li>
+</ul>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Print Time :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li3""><span class=""s1"">First page out black (A4, ready) : As fast as 17 sec</span></li>
+<li class=""li3""><span class=""s1"">First page out color (A4, ready) :  </span><span class=""s5"">As fast as 24 sec</span></li>
+</ul>
+<p> </p>
+<p class=""p1""><span class=""s1""><strong>Copier Specifications :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li7""><span class=""s1"">Colour copy capability : Yes</span></li>
+<li class=""li3""><span class=""s1"">Copies, maximum : Up to 9 copies</span></li>
+<li class=""li3""><span class=""s1"">Copier settings : Auto-enlarge</span></li>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Copy Resolution :</strong></span></p>
+<ul class=""ul1"">
+<li class=""li3""><span class=""s1"">Copy resolution (black text) : Up to 600 x 300 dpi</span></li>
+<li class=""li3""><span class=""s1"">Copy resolution (color text and graphics) : Up to 600 x 300 dpi</span></li>
+<li class=""li3""><span class=""s1"">Copy resolution (black graphics) : Up to 600 x 300 dpi</span></li>
+</ul>
+<p class=""p5""> </p>
+<p class=""p1""><span class=""s1""><strong>Copy Speed : </strong></span></p>
+<ul class=""ul1"">
+<li class=""li7""><span class=""s1"">Copy speed black (draft, A4) : </span><span class=""s4"">Up to 4 cpm</span></li>
+</ul>",545000,0,0,0

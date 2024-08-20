@@ -1,0 +1,142 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    RewriteCond %{HTTP_HOST} ^tokocentralpc.com$ [NC]
+    RewriteRule ^(.*)$ http://www.tokocentralpc.com/$1 [R=301,L]
+
+    RewriteCond %{REQUEST_URI} !^/blog
+    # Redirect Trailing Slashes...
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+
+    #redirect old URI to new URI
+
+    Redirect 301 /2014/lowongan-kerja-kurir /
+    Redirect 301 /2013/mengenal-lebih-jauh-class-pada-sd-card /
+
+    RedirectMatch 301 ^/([0-9]+)(.*)$ /blog/$1$2
+
+    Redirect 301 /product-category/komputer-rakitan-home-office /product/komputer-rakitan
+    
+    RedirectMatch 301 /product-category/rakitan-gaming-design/page/(.*) /product/komputer-rakitan
+    Redirect 301 /product-category/rakitan-gaming-design /product/komputer-rakitan
+    
+    RedirectMatch 301 /product-category/gadget/samsung/page/(.*) /product/gadget-tablet
+    RedirectMatch 301 /product-category/gadget/page/(.*) /product/gadget-tablet
+    Redirect 301 /product-category/gadget/apple /product/gadget-tablet
+    Redirect 301 /product-category/gadget/samsung /product/gadget-tablet
+    Redirect 301 /product-category/gadget /product/gadget-tablet
+
+    RedirectMatch 301 /product-category/hdd-external/page/(.*) /product/harddisk-external-2-5
+    Redirect 301 /product-category/hdd-external/a-data /product/harddisk-external-2-5
+    Redirect 301 /product-category/hdd-external/silicon-power /product/harddisk-external-2-5
+    Redirect 301 /product-category/hdd-external/seagate /product/harddisk-external-2-5
+    Redirect 301 /product-category/hdd-external/western-digital /product/harddisk-external-2-5
+    Redirect 301 /product-category/hdd-external /product/harddisk-external-2-5
+
+    RedirectMatch 301 /product-category/casing/page/(.*) /product/casing
+    Redirect 301 /product-category/casing/casing-mini-atx /product/casing
+    Redirect 301 /product-category/casing/casing-atx /product/casing
+    Redirect 301 /product-category/casing /product/casing
+    
+    RedirectMatch 301 /product-category/notebook/page/(.*) /product/sub-notebook
+    Redirect 301 /product-category/notebook /product/sub-notebook
+
+    Redirect 301 /product-category/accessories /other-accessories
+    
+    Redirect 301 /product-category/cctv/paket-cctv /
+
+    Redirect 301 /product-category/scanner /product/scanner
+    
+    Redirect 301 /product-category/networking /product/networking
+    
+    Redirect 301 /product-category/projector /product/projector
+    
+    Redirect 301 /product-category/power-supply /
+    Redirect 301 /product-category/nanopc /product/mini-pc
+
+    RedirectMatch 301 /product-category/(.*) /
+    
+
+
+    Redirect 301 /list-harga/internal-hdd-2-5 /product/harddisk-2-5
+    Redirect 301 /list-harga/internal-hdd /product/harddisk-2-5
+    Redirect 301 /list-harga/server-hdd /product/server
+    Redirect 301 /list-harga/paket-keyboard-mouse /product/keyboard-mouse
+    Redirect 301 /list-harga/mouse-std /product/mouse
+    Redirect 301 /list-harga/keyboard-std /product/keyboard
+    Redirect 301 /list-harga/memory-ddr2 /product/ddr-1-ddr-2
+    Redirect 301 /list-harga/memory-ddr3 /product/ddr-3
+    Redirect 301 /list-harga/monitor /product/monitor
+    Redirect 301 /list-harga/motherboard-intel-socket-1150 /product/mb-intel-socket-1150
+    Redirect 301 /list-harga/motherboard-intel-socket-1155 /product/mb-intel-socket-1155
+    Redirect 301 /list-harga/motherboard-intel-socket-2011 /product/mb-intel-socket-2011
+    Redirect 301 /list-harga/mb-amd-am3 /product/mb-amd-socket-am3-am3-plus
+    Redirect 301 /list-harga/motherboard-amd-socket-fm1 /product/mb-amd-socket-fm1
+    Redirect 301 /list-harga/motherboard-amd-socket-fm2 /product/mb-amd-socket-fm2-fm2-plus
+    Redirect 301 /list-harga/amd /product/processor-amd
+    Redirect 301 /list-harga/intel /product/processor-intel
+    Redirect 301 /list-harga/amd-ati-radeon /product/vga-ati
+    Redirect 301 /list-harga/intel-nvidia /product/vga-nvdia
+    Redirect 301 /list-harga/notebook-cooler /product/notebook-cooler
+    Redirect 301 /list-harga/power-bank /product/powerbank
+    Redirect 301 /list-harga/external-hdd-2-5 /product/harddisk-external-2-5
+    Redirect 301 /list-harga/notebook /product/sub-notebook
+    Redirect 301 /list-harga/projector /product/projector
+    Redirect 301 /list-harga/printer-dot-matrix /product/printer
+    Redirect 301 /list-harga/printer-inkjet /product/printer
+    Redirect 301 /list-harga/printer-laser /product/printer
+    Redirect 301 /list-harga/scanner /product/scanner
+    Redirect 301 /list-harga/ups /product/ups
+    Redirect 301 /list-harga/stabilizer /product/stabilizer
+    Redirect 301 /list-harga/pc-build-up /product/pc-build-up
+    Redirect 301 /list-harga/casing/casing-atx /product/casing
+    Redirect 301 /list-harga/casing/casing-mini-atx /product/casing
+    Redirect 301 /list-harga/HP /product/gadget-tablet
+    Redirect 301 /list-harga/nanopc /product/mini-pc
+    Redirect 301 /list-harga/casing /product/casing
+    RedirectMatch 301 /list-harga/(.*) /
+    Redirect 301 /list-harga /
+
+    RedirectMatch 301 /category/blog/page/(.*) /blog/page/$1
+    
+    Redirect 301 /category/blog/feed /blog/feed
+    Redirect 301 /category/blog /blog
+    Redirect 301 /category/harddisk /product/harddisk-2-5
+    Redirect 301 /category/memory /product/memory-card
+    Redirect 301 /category/motherboard /product/mb-intel-socket-775
+    Redirect 301 /category/processor /product/processor-intel
+    Redirect 301 /category/vga-card /product/vga-ati
+    Redirect 301 /category/accessories /product/other-accessories
+    RedirectMatch 301 ^/category/(.*) /
+
+    Redirect 301 /memori-campuran /product/memory-card
+
+    Redirect 301 /my-account/lost-password /
+    Redirect 301 /my-account /
+    
+    Redirect 301 /cdn-cgi/l /
+
+    RedirectMatch 301 ^/products/(.*) /
+    RedirectMatch 301 /product/0/(.*) /
+    RedirectMatch 301 /product-tag/(.*) /
+    
+    RedirectMatch 301 /shop/page/(.*) /
+    Redirect 301 /shop/feed /
+    RedirectMatch 301 /shop/(.*) /
+    Redirect 301 /shop /
+
+    #RewriteCond %{HTTP_HOST} ^tokocentralpc.com$ [NC]
+    #RewriteRule ^(.*)$ http://www.tokocentralpc.com/$1 [R=301,L]
+   
+</IfModule>

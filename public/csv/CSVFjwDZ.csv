@@ -1,0 +1,123 @@
+id,product_category_id,currency_code,formula_id,permalink,name,short_description,long_description,base_price,is_sale,streak_price,is_call_for_best_price
+1504,19,IDR,5,hp-pavilion-slimline-400-325d,HP Pavilion Slimline 400-325D,"<p>Intel Core i5-4590, 4GB DDR3, 1TB HDD, DVD&plusmn;RW, VGA NVIDIA GeForce GT 705 1GB, NIC, WiFi, Audio, Win8.1 64 bit.</p>","<table class=""spesifications"" cellspacing=""0"" cellpadding=""3"">
+<tbody>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Platform</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Desktop PC&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Tipe Prosesor</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Intel Core i5&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Processor Onboard</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>Intel&reg; Core&trade; i5-4590 Processor (3.30 GHz, 6M Cache)&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Chipset</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Intel&reg; H87&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Memori Standar</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">4GB DDR3&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Max. Memori</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">8GB&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Memori Slot</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">2&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Tipe Grafis</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>NVIDIA GeForce GT 705 1GB&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Audio</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Integrated
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>High Definition Audio 5.1&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Hard Drive</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">1TB Serial ATA, 7200RPM&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Optical Drive</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">DVD&plusmn;RW&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Networking</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Integrated&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Kecepatan Jaringan</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">10 / 100 / 1000 Mbps&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Keyboard</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">HP Wireless Keyboard&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Ragam Input Device</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">HP Wireless Mouse&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Ragam Slot</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>1x PCI-ex16, 3x PCI-ex1&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Ragam Card Reader</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">7 in 1 Media Reader&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Antarmuka / Interface</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">
+<div>
+<ul style=""margin: 0px 0px 0px 16px; padding: 0px;"">
+<li>2x USB 3.0&nbsp;&nbsp;</li>
+<li>4x USB 2.0&nbsp;&nbsp;</li>
+<li>1x Headphone&nbsp;&nbsp;</li>
+<li>LAN Port&nbsp;&nbsp;</li>
+</ul>
+</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Sistem Operasi</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Microsoft Windows 8.1 64 bit&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Chassis Form Factor</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">Slimline&nbsp;</td>
+</tr>
+<tr>
+<td style=""width: 230px; border-bottom: 1px solid #E2E2E2;"" valign=""top""><strong>Daya / Power</strong></td>
+<td style=""border-bottom: 1px solid #E2E2E2;"" valign=""top"">270W&nbsp;</td>
+</tr>
+</tbody>
+</table>",9250000,0,0,0
+,19,IDR,5,,PC TEST123,PC TEST,TEST DESC,190000000,,,
